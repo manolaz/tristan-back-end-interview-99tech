@@ -2,6 +2,19 @@
 
 A TypeScript and Express REST API for managing resources, persisted in a local SQLite database.
 
+## Project structure
+
+The service separates HTTP concerns from business logic and persistence:
+
+- `src/app.ts` configures Express middleware and mounts routes.
+- `src/routes/` maps resource endpoints to controller handlers.
+- `src/controllers/` handles HTTP input and response behavior.
+- `src/services/` contains resource operations and business rules.
+- `src/repositories/` encapsulates SQLite queries.
+- `src/domain/` defines resource types and input validation.
+- `src/middleware/` contains shared request error handling.
+- `src/index.ts` starts the server and handles graceful shutdown.
+
 ## Requirements
 
 - Node.js 22.13 or newer (for the built-in `node:sqlite` module)
