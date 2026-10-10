@@ -1,0 +1,42 @@
+[
+  {
+    "id": "f8ab4410-21e7-4b24-90b9-514e2c670001",
+    "name": "Wireless Keyboard",
+    "description": "Compact wireless keyboard with a rechargeable battery.",
+    "category": "electronics",
+    "createdAt": "2025-01-10T09:00:00.000Z",
+    "updatedAt": "2025-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "f8ab4410-21e7-4b24-90b9-514e2c670002",
+    "name": "Mechanical Keyboard",
+    "description": "Full-size mechanical keyboard with tactile switches.",
+    "category": "electronics",
+    "createdAt": "2025-01-11T09:00:00.000Z",
+    "updatedAt": "2025-01-11T09:00:00.000Z"
+  },
+  {
+    "id": "f8ab4410-21e7-4b24-90b9-514e2c670003",
+    "name": "Desk Lamp",
+    "description": "Dimmable LED lamp for a home office desk.",
+    "category": "home-office",
+    "createdAt": "2025-01-12T09:00:00.000Z",
+    "updatedAt": "2025-01-12T09:00:00.000Z"
+  },
+  {
+    "id": "f8ab4410-21e7-4b24-90b9-514e2c670004",
+    "name": "Notebook Set",
+    "description": "Three recycled-paper notebooks with ruled pages.",
+    "category": "stationery",
+    "createdAt": "2025-01-13T09:00:00.000Z",
+    "updatedAt": "2025-01-13T09:00:00.000Z"
+  },
+  {
+    "id": "f8ab4410-21e7-4b24-90b9-514e2c670005",
+    "name": "USB-C Hub",
+    "description": "Multi-port adapter with HDMI, USB-A, and card reader.",
+    "category": "electronics",
+    "createdAt": "2025-01-14T09:00:00.000Z",
+    "updatedAt": "2025-01-14T09:00:00.000Z"
+  }
+]
